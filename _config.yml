@@ -2,3 +2,5 @@ name: GitHub-Enhancement
 title: "GitHub Enhancement Website"
 plugins:
   - jemoji
+
+theme: jekyll-theme-cayman
