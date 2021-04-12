@@ -5,7 +5,8 @@ Here you will find information about our project and instructions on how to setu
 
 ## Click one of the below for...
 
-Project Description:
+[Project Description](./description)
 
+[Instructions](./instructions)
 
-Instructions:
+[Requirements](./requirements)
