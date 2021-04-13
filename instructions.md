@@ -39,7 +39,9 @@ then *Add External Archives*.
 Once the project is imported into your IDE:
 
 1. Run the program from the *Main.java* file and the GUI window should pop up.
+
 ![gui](./assets/images/gui.jpg)
+
 2. Click *File* in the top left corner, you will be given two options:
     - DarkMode: allows you to the switch the theme/color of the application from light to dark
     - Login: allows you to log onto your GitHub account using a token for the password
