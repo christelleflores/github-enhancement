@@ -12,7 +12,7 @@ In addition, two external libraries will need to be added to the project:
 - GitSubprocessClient: allows for running Git commands from a Java program instead of the terminal
 - GitHubApiClientTool: allows for sending API calls to GitHub.
 
-### To Download the Java Packages:
+### To Download Java Packages:
 
 1. After clicking the link to each packages' repo, click on *Releases* located on the right side of the screen.
 2. Click on on the .jar file of the most recent version of the repo, under *Assets*.
@@ -36,5 +36,19 @@ then *Add External Archives*.
 
 ## **How to use:**
 
+Once the project is imported into your IDE:
+
+1. Run the program from the *Main.java* file and the GUI window should pop up.
+![gui](./assets/images/gui.jpg)
+2. Click *File* in the top left corner, you will be given two options:
+    - Login: allows you to log onto your GitHub account using a token for the password
+      > You can find a token by going to your GitHub account, in Settings, scroll down to Developer Settings and click on Personal Access Tokens.
+
+    - DarkMode: allows you to the switch the theme/color of the application from light to dark
+3. Once you complete your login, you will see three boxes which will allow you to select a *repository*, a *branch*, and a *file* you wish to edit.
+4. Click the *Open Selected File* button.
+5. Make the desired changes to the file you selected.
+6. Click *File*, then *Upload*.
+7. You should be able to see the changes made in your GitHub repository.
 
 Click [here](./index) to return to the home page.
